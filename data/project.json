@@ -1,21 +1,49 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": false,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [
+    {
+      "login_name": "Thomas-Barrow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260947949?v=4",
+      "admin": false
+    },
+    {
+      "login_name": "sidV1ad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111521356?v=4",
+      "admin": false
+    }
+  ],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "fmatical",
+    "is_private": false,
+    "title": "The Rhetoric of AI Slop",
+    "description": "Analyzing the synthetic media created just because it can be created.",
+    "language": "en",
+    "slug": "ai-slop",
+    "creator": "fmatical",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [
+      {
+        "login_name": "Thomas-Barrow",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260947949?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "sidV1ad",
+        "avatar_url": "https://avatars.githubusercontent.com/u/111521356?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-02-11T15:54:05.904Z",
+    "updated_at": "2026-02-11T15:54:05.904Z"
   }
 }
