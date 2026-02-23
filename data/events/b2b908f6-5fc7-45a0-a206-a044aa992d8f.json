@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "4d992ed7-f7d3-4d27-91a2-ce46903dda69": {
+      "label": "Talking Animals",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://archive.org/details/videoplayback_20260223_1559 ",
+      "duration": 61
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Talking Animals",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Talking animals interviewed by humans."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-23T16:10:12.069Z",
+  "created_by": "sidV1ad",
+  "updated_at": "2026-02-23T16:10:12.069Z",
+  "updated_by": "sidV1ad"
+}
