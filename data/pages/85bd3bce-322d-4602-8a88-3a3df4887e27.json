@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "e9d21b8f-9e58-459d-a1c4-4e0246e85252",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-02-23T16:10:12.249Z",
   "created_by": "sidV1ad",
   "title": "Harry Potter Ruined by AI",
   "slug": "harry-potter-ruined-by-ai",
-  "updated_at": "2026-02-23T16:10:12.249Z",
-  "updated_by": "sidV1ad",
+  "updated_at": "2026-02-23T16:29:07.645Z",
+  "updated_by": "fmatical",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "e9d21b8f-9e58-459d-a1c4-4e0246e85252"
   }
