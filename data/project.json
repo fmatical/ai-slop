@@ -34,24 +34,67 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "Thomas-Barrow",
-        "avatar_url": "https://avatars.githubusercontent.com/u/260947949?v=4",
-        "admin": false
-      },
-      {
-        "login_name": "sidV1ad",
-        "avatar_url": "https://avatars.githubusercontent.com/u/111521356?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Rhetorical Triangle",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Rhetorical Elements",
+          "color": "#88C9F2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Purpose",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Context",
+          "category": "Rhetorical Elements"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Stakeholder",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        }
+      ]
     },
     "created_at": "2026-02-11T15:54:05.904Z",
-    "updated_at": "2026-02-23T16:10:12.368Z",
+    "updated_at": "2026-02-23T16:14:13.545Z",
     "generate_pages_site": false
   },
   "annotations": {},
