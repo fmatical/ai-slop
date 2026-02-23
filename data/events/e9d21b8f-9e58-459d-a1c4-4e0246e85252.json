@@ -4,7 +4,7 @@
       "label": "Harry Potter Ruined by AI",
       "is_offline": false,
       "file_type": "Video",
-      "file_url": "https://archive.org/details/videoplayback_20260223_1556",
+      "file_url": "https://ia802900.us.archive.org/4/items/videoplayback_20260223_1556/videoplayback.mp4",
       "duration": 105
     }
   },
@@ -22,6 +22,9 @@
   ],
   "created_at": "2026-02-23T16:10:12.069Z",
   "created_by": "sidV1ad",
-  "updated_at": "2026-02-23T16:10:12.069Z",
-  "updated_by": "sidV1ad"
+  "updated_at": "2026-02-23T16:17:00.149Z",
+  "updated_by": "sidV1ad",
+  "av_file_order": [
+    "e9ae61cd-8cb2-47e8-88c7-f673c0e84dd1"
+  ]
 }
