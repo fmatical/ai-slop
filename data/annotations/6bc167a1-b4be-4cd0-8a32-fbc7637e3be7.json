@@ -1,5 +1,48 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 9,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The AI-edited Harry Potter video primarily operates through the manipulation and removal of pathos. The original film relies heavily on emotional tone, using silence, music, and character reactiosn to create tension and wonder. By inserting exaggerated laughter into serious moments, teh AI disrupts that emotional framework. Instead of feeling suspense or empathy, the viewer experiences confusion or discomfort. This deliberate emotional mismatch highlights how essential tone and timing are to storytelling. The absence of appropriaet emotional cues demonstrates that AI can replicate patters but cannot meaningfully interpret emotional context. In doing so, the video becomes a commentary on the limits of artifical intelligence in creative expression. It shows that emotional resonance is not simply a technical feature of media, but something shaped by human understanding, intention, and lived experience. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "24a73876-0c9b-4dec-af7c-ec98e8ffda09"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Although the video appears comedic, it advances a logical argument about artificial itelligence. The structure of the experiment is simple: feed a familiar, emotionally rich film into an AI system and observe how it changes when interpreted through pure pattern recognition. The resulting distrortion functions as evidence supporting a broader claim, that AI lacks contextual judgement and subjective understanding. The humor is therefore not random, it serves as proof of concept. By presenting a well-known narrative and then alterting it in a visibly flawed fashion, the creator invites viewers to draw their own conclusion about AI's limitations. The video's logos lies in its demonstration rather than explanation, showing through contrast how algorithmic processing differs from human storytelling instincts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "e5a9bf87-7892-4b98-8a3e-0d0280c75d2f"
+    }
+  ],
   "set": "Default",
   "event_id": "e9d21b8f-9e58-459d-a1c4-4e0246e85252",
   "source_id": "e9ae61cd-8cb2-47e8-88c7-f673c0e84dd1"
