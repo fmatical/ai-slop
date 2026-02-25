@@ -64,27 +64,6 @@
       "uuid": "e7941082-73f6-4998-8b77-e14797a32e6a"
     },
     {
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Although the video appears comedic, it advances a logical argument about artificial itelligence. The structure of the experiment is simple: feed a familiar, emotionally rich film into an AI system and observe how it changes when interpreted through pure pattern recognition. The resulting distrortion functions as evidence supporting a broader claim, that AI lacks contextual judgement and subjective understanding. The humor is therefore not random, it serves as proof of concept. By presenting a well-known narrative and then alterting it in a visibly flawed fashion, the creator invites viewers to draw their own conclusion about AI's limitations. The video's logos lies in its demonstration rather than explanation, showing through contrast how algorithmic processing differs from human storytelling instincts."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Logos",
-          "category": "Rhetorical Appeals"
-        }
-      ],
-      "uuid": "50d2348d-f19b-4bf7-89b7-cae9f2e5eedd"
-    },
-    {
       "start_time": 56,
       "end_time": 63,
       "annotation": [
