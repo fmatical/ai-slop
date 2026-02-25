@@ -1,10 +1,78 @@
 {
   "content": [
     {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Cook, Robert. “Decoding the Divide: 6 Reasons Why AI Isn’t EI.” Truecolorsintl.com, True Colors International, 4 Jan. 2024, "
+                },
+                {
+                  "type": "link",
+                  "url": "http://www.truecolorsintl.com/tciblog/decoding-the-divide-five-reasons-why-ai-isnt-ei",
+                  "children": [
+                    {
+                      "text": "www.truecolorsintl.com/tciblog/decoding-the-divide-five-reasons-why-ai-isnt-ei"
+                    }
+                  ]
+                },
+                {
+                  "text": ". "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Freed, Sam. AI and Human Thought and Emotion. 1st ed., Auerbach Publications, 2019, "
+                },
+                {
+                  "type": "link",
+                  "url": "https://doi.org/10.1201/9780429001123",
+                  "children": [
+                    {
+                      "text": "https://doi.org/10.1201/9780429001123"
+                    }
+                  ]
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "YouTube, YouTube, www.youtube.com/watch?v=LHo4v-kyYYE. Accessed 25 Feb. 2026. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
-          "text": "Thomas"
+          "text": "\n"
         }
       ]
     }
@@ -17,6 +85,6 @@
   "slug": "works-cited",
   "created_at": "2026-02-25T16:23:20.292Z",
   "created_by": "Thomas-Barrow",
-  "updated_at": "2026-02-25T16:23:20.292Z",
-  "updated_by": "Thomas-Barrow"
+  "updated_at": "2026-02-25T16:31:59.554Z",
+  "updated_by": "sidV1ad"
 }
