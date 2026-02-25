@@ -43,27 +43,6 @@
       "uuid": "e5a9bf87-7892-4b98-8a3e-0d0280c75d2f"
     },
     {
-      "start_time": 9,
-      "end_time": 21,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The AI-edited Harry Potter video primarily operates through the manipulation and removal of pathos. The original film relies heavily on emotional tone, using silence, music, and character reactiosn to create tension and wonder. By inserting exaggerated laughter into serious moments, teh AI disrupts that emotional framework. Instead of feeling suspense or empathy, the viewer experiences confusion or discomfort. This deliberate emotional mismatch highlights how essential tone and timing are to storytelling. The absence of appropriaet emotional cues demonstrates that AI can replicate patters but cannot meaningfully interpret emotional context. In doing so, the video becomes a commentary on the limits of artifical intelligence in creative expression. It shows that emotional resonance is not simply a technical feature of media, but something shaped by human understanding, intention, and lived experience. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Pathos",
-          "category": "Rhetorical Appeals"
-        }
-      ],
-      "uuid": "e7941082-73f6-4998-8b77-e14797a32e6a"
-    },
-    {
       "start_time": 56,
       "end_time": 63,
       "annotation": [
