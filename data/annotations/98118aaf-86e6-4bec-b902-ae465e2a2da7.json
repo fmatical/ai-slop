@@ -83,6 +83,27 @@
         }
       ],
       "uuid": "7e9d2d83-f9d2-4077-aec9-08c772de901b"
+    },
+    {
+      "start_time": 58,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The purpose of this AI Slop\" video about talking animals is to provide a little bit of a glimpse into what animals are thinking and what they would say if they had the chance to be interviewed. Everyone has wondered what an animal thinks of us or what they might say, so this video is a direct example of what they might say, with a brilliant twist of humor. Each answer was connected to the animal in a way that made it funny for the audience, while also confirming our ideas regarding what these animals might have to say. I feel that this video has succeeded regarding its goal of bringing the impossible voices of animals to life in a way that brings joy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Purpose",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "1a62b520-981c-4fc2-9ecc-d5fdd0f8adb5"
     }
   ],
   "set": "Default",
