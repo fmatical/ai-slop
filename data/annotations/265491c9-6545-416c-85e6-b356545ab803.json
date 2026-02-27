@@ -78,6 +78,39 @@
         }
       ],
       "uuid": "d0082164-dc2f-4c70-9dcb-b9d43920458d"
+    },
+    {
+      "start_time": 35,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this scene, the video strengthens the boy’s credibility by placing him on an international stage and having him win first place again, this time being greeted by Michael Jackson who is a pop icon. The use of such a cultural figure acts as a symbol of authority and excellence, suggesting that the boy’s talent has reached the highest level of recognition. Standing on the podium with both a trophy and a medal confirms his status as the best among his peers, which makes his success official. His facial expression and body language show pure happiness and pride, proving for the audience that all his hard work and earlier acceptance have led to this peak life moment."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "28a940e2-68cf-4e6f-84c6-6e83fe5dcb00"
     }
   ],
   "set": "Default",
