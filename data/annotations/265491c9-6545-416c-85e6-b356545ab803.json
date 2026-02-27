@@ -111,6 +111,47 @@
         }
       ],
       "uuid": "28a940e2-68cf-4e6f-84c6-6e83fe5dcb00"
+    },
+    {
+      "start_time": 43,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This last scene completely shifts the tone of the video. When the champagne washes off the green paint, it creates a moment of shock and panic that makes the audience feel bad for the boy, which is a strong use of pathos. The courtroom introduces ethos because the judge represents authority and his decision is final, even though we have been rooting for the boy the entire time. Showing the parents being taken away by the police raises the emotional stakes and shows real consequences for their dishonesty. When the boy walks into Driftwood Academy looking upset, the message becomes clear that his success was never fully accepted and was based only on his appearance. The wooden student greeting him at the end slightly softens the tone of the moment, but it is still a heavy and dark moment for the wooden boy and his family."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Stakeholder",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "2a3a7239-e1f7-4d08-8986-264848ff86a9"
     }
   ],
   "set": "Default",
