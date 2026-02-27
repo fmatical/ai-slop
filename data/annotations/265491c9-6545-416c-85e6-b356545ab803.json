@@ -53,6 +53,31 @@
         }
       ],
       "uuid": "99cb8459-42fb-4515-a541-d951f40dd6ad"
+    },
+    {
+      "start_time": 29,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene focuses on emotional appeal by showing the boy back at home with his wooden parents, still covered in green paint, being embraced and celebrated for his success. The parents’ pride creates a supportive feeling that makes the audience feel happy for him and builds on the idea that his achievements matter not just to him, but also his family. The transition to the airplane, where he sits with his green classmates who all look excited for what is coming next, builds anticipation and a sense of forward momentum. Their shared expressions of joy make it seem like he fully belongs in this group and is moving toward even greater opportunities. These quick visuals enhance the viewer’s emotional connection and make his journey feel like a dream coming true."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "d0082164-dc2f-4c70-9dcb-b9d43920458d"
     }
   ],
   "set": "Default",
