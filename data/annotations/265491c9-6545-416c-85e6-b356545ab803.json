@@ -28,6 +28,31 @@
         }
       ],
       "uuid": "84684f93-234f-40b3-9189-0d60d906e62c"
+    },
+    {
+      "start_time": 21,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this scene, the video builds credibility and a sense of legitimacy around the wooden child’s success by showing him win the school dance competition and stand in first place above the other green students. The winners’ podium ranks the students, and placing him at the top suggests that he has not only fit into the institution but has excelled. The green man in a suit shaking his hand works as a symbol of authority and official recognition, almost like an administrator or sponsor, which shows that his achievement is being validated by the system itself. This moment communicates to the audience that his talent is real and respected, not just accepted by classmates but rewarded. By using these familiar images of competition and ceremony, the video makes his success feel credible and meaningful, which strengthens the impact of the later reveal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "99cb8459-42fb-4515-a541-d951f40dd6ad"
     }
   ],
   "set": "Default",
