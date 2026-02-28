@@ -69,6 +69,31 @@
         }
       ],
       "uuid": "1802a3ff-3b02-46f9-9924-c1748d3c3ad5"
+    },
+    {
+      "start_time": 14,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The fruit-cutting clip features a realistic scene of a knife slicing through fruits that appear natural, but are made of unusual materials such as glass or shiny rubber. This scene draws on visual and sensory appeal rather than narrative meaning. Videos of cutting fruit or other objects are already popular on short-form platforms because they are satisfying to watch and require little explanation. By altering the material of the fruit, the clip introduces an element of surprise that disrupts viewer expectations. The rhetoric here is visual more than anything else."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Purpose",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "4eb57120-85cc-4b76-9a7d-02626a672932"
     }
   ],
   "event_id": "dc26f5ae-1089-45ef-ab19-6d756b0a3ed3",
