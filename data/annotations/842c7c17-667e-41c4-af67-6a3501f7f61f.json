@@ -85,6 +85,43 @@
         }
       ],
       "uuid": "06d5d033-9e4a-45f1-ad54-7c5978e882de"
+    },
+    {
+      "start_time": 29,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fencing functions as a central element in the video as it gives the story a structured and recognizable activity that audiences can easily follow. Unlike assassination, which is hidden and illegal, fencing is known and publicly accepted. Fencing also gives the narrative a clear goal in the form of training and competition, which helps move the plot forward quickly within a short runtime. Without the fencing competition plot line, there would be no substance for the video. As soon as the video started, the audience was introduced to the idea of a fencing academy. For viewers, fencing is familiar enough to understand but still visually associated with combat, and by using fencing, the video creates a clear plot twist time stamp when Cappuccino’s identity is exposed, showing how a socially acceptable activity becomes a site for exclusion."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Stakeholder",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "71e345a1-da8c-45ed-b30d-c79172f9191d"
     }
   ],
   "set": "Default",
