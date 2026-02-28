@@ -1,1 +1,52 @@
-{"annotations":[],"set":"Default","event_id":"04ca9104-2fe8-4a88-8539-4ff3771584ff","source_id":"8a9497c2-a880-4382-bd50-3d204266e23c"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video’s precise one minute runtime is actually a deliberate design. On short form platforms, videos that are around sixty seconds are more likely to be watched all the way through and sometimes loop automatically. When viewers finish a video, the platform reads that as strong engagement and is more likely to recommend it to others. Because of this, creators who use AI often shape their stories to fit this time limit instead of letting events unfold naturally. In this video, major plot points happen back to back, moving from childhood to school, to exile, to training, and finally to reunion in a very short span. The pacing feels rushed because the goal is to maintain the attention of the young audience. The one minute format makes the video feel complete while still requiring very little time from the viewer. This is a general trend that we can see on any social media platform. There are even jokes centered around content creators dragging their videos out with meaningless direction in order to hit a time threshold. It is obvious that this is not only constrained to real people, but synthetic media as well."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "tag": "Context"
+        },
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "tag": "Exigence"
+        },
+        {
+          "tag": "Purpose",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "f416ff34-19ea-4bb0-ad74-edb368396cef"
+    }
+  ],
+  "set": "Default",
+  "event_id": "04ca9104-2fe8-4a88-8539-4ff3771584ff",
+  "source_id": "8a9497c2-a880-4382-bd50-3d204266e23c"
+}
