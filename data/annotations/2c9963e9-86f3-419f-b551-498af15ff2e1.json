@@ -94,6 +94,35 @@
         }
       ],
       "uuid": "4eb57120-85cc-4b76-9a7d-02626a672932"
+    },
+    {
+      "start_time": 27,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the fast food clip, the cashier responds to a black customer’s order by making a racist remark referencing fried chicken and watermelon. These are foods historically used as stereotypes against Black Americans. This moment relies on shock and discomfort as a form of engagement. The humor, if intended as such, is built on a long-standing racist trope rather than situational misunderstanding. In the context of AI generated compilation content, the inclusion of this remark functions as another emotional spike designed to provoke a reaction. That could be laughter, anger, or disbelief. It does not advance a narrative or argument but instead exploits cultural stereotypes for attention."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "de729be9-85bc-40fe-b03a-79c26e3cddc1"
     }
   ],
   "event_id": "dc26f5ae-1089-45ef-ab19-6d756b0a3ed3",
