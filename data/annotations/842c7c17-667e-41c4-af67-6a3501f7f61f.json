@@ -44,6 +44,47 @@
         }
       ],
       "uuid": "f416ff34-19ea-4bb0-ad74-edb368396cef"
+    },
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The use of headbands resembling those worn by characters in Naruto connects this video to a global pop-culture reference. In Naruto, headbands are closely tied to identity, training, and allegiance, especially within a world centered on ninjas and assassins. By borrowing this visual symbol, the video quickly signals that its characters belong to a similar world without needing explanation. This reference works as a shortcut for the audience, viewers who are probably familiar with anime, who can immediately understand the role and tone of the characters. I believe the headbands also help \"legitimize\" the story on a socio-cultural level, where meaning in media is often built through recognizable references."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Stakeholder",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "tag": "Context"
+        },
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "06d5d033-9e4a-45f1-ad54-7c5978e882de"
     }
   ],
   "set": "Default",
