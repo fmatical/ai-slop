@@ -1,5 +1,39 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The beginning clip depicts the current president of the United States, Donald Trump, as a homeless man eating out of the trash. This image relies heavily on shock and degradation to immediately capture attention. In contemporary internet culture, political figures are often used for visuals for controversy, power, or failure. By placing a sitting president in an exaggerated and humiliating scenario, the video triggers a strong emotional response before viewers have time to question intent or realism. The clip does not make a clear political argument; instead, it uses Trump’s recognizability to generate engagement. Within the context of a compilation of unrelated AI clips, this opening functions as a hook. It signals that the video values surprise and provocation over coherence, setting the tone for a sequence driven by attention rather than meaning."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "tag": "Context"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "dfe770d6-520d-47cf-bdce-6d5fe9c2e95c"
+    }
+  ],
   "event_id": "dc26f5ae-1089-45ef-ab19-6d756b0a3ed3",
   "set": "annotation",
   "source_id": "5e7e9be1-0c12-49d2-860d-eec6cace7552"
