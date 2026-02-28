@@ -32,6 +32,43 @@
         }
       ],
       "uuid": "dfe770d6-520d-47cf-bdce-6d5fe9c2e95c"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The second clip shows a male gorilla being chased through a forest by a female gorilla driving a car. The scene relies on absurdity and anthropomorphism to be funny. By placing animals in a familiar human conflict, the video allows viewers to project human emotions and narratives onto non-human characters. In this way, viewers are not expected to take the scene seriously, only to recognize the joke quickly and remain engaged. In the context of AI generated content, anthropomorphic animals are common because they are probably easily produced with generative tools. Including this clip after a politically charged opening shifts the tone from shock to humor, preventing emotional fatigue and maintaining viewer interest. The abrupt tonal change reinforces the video’s broader rhetorical pattern of cycling emotions to sustain attention than build a meaningful story."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Purpose",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Stakeholder",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "1802a3ff-3b02-46f9-9924-c1748d3c3ad5"
     }
   ],
   "event_id": "dc26f5ae-1089-45ef-ab19-6d756b0a3ed3",
