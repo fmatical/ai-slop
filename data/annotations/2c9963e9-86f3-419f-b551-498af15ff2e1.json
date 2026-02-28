@@ -123,6 +123,39 @@
         }
       ],
       "uuid": "de729be9-85bc-40fe-b03a-79c26e3cddc1"
+    },
+    {
+      "start_time": 35,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The final sequence shows cats participating in a yoga session, followed by a tornado, and ends with the AI voice calmly stating, “I’ll see you tomorrow.” The yoga cats provide a soft, comforting visual after the tension of earlier clips. This rapid emotional shift reflects the video’s overall structure: alternating tones to prevent viewer disengagement. The closing line, “I’ll see you tomorrow,” is also important rhetorically. Rather than resolving themes or clarifying meaning, the voiceover establishes continuity and routine. The goal is not narrative closure but platform engagement, and the ending signals that the value of the content this user provides lies in its repeated consumption."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Stakeholder",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "tag": "Exigence"
+        }
+      ],
+      "uuid": "8ee7e9f0-1cb1-48c3-87cd-9bb9f942e94e"
     }
   ],
   "event_id": "dc26f5ae-1089-45ef-ab19-6d756b0a3ed3",
