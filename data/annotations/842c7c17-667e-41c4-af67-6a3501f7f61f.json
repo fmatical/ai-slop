@@ -122,6 +122,47 @@
         }
       ],
       "uuid": "71e345a1-da8c-45ed-b30d-c79172f9191d"
+    },
+    {
+      "start_time": 47,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After the plot twist, the video makes an immense shift in its use of color to clearly separate the suggestively 'good' fencers from the 'evil' assassins. Scenes connected to fencing and the \"School for Good University\" are shown with bright whites and light tones, creating an almost heavenly atmosphere. Everything associated with assassins is shown in dark blacks and muted colors, which fits much more with the quiet yet persistent Halloween music soundtrack. This visual divide simplifies the story’s moral logic for the audience by letting color do the work of exposition. In general, heavy and child-like contrast, as shown here, is a characteristic of AI videos that usually rely on straightforwardness and not nuanced explanation to communicate meaning quickly."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "tag": "Context"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "a9db45d3-f8d9-42be-8481-bfc7590a23fc"
     }
   ],
   "set": "Default",
