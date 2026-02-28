@@ -163,6 +163,47 @@
         }
       ],
       "uuid": "a9db45d3-f8d9-42be-8481-bfc7590a23fc"
+    },
+    {
+      "start_time": 6,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This clip mixes cartoon-style characters with realistic humans, creating an obvious visual contrast. Cappuccino and the other exaggerated characters are animated and feel synthetic, while some backgrounds and human characters look like they came out of a movie. This contrast could feel confusing at first, but it also helps keep the viewer’s attention. By placing unrealistic characters in environments that look more real, the video makes the absurd storyline easier to follow and strangely believable within its own logic. The visual mismatch also reinforces the \"AI slop\" style of the video, where reasoning is less important than persistent stimulation. It encourages viewers to focus on the surprise element of the video, and somewhere along the way, the need for narrative depth is lost. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "dd129594-3138-4d27-837e-3cb01c3a885d"
     }
   ],
   "set": "Default",
